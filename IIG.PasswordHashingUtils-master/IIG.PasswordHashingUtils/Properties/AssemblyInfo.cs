@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("IIG.BinaryFlag")]
+[assembly: AssemblyTitle("IIG.PasswordHashingUtils")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("IIG.BinaryFlag")]
+[assembly: AssemblyProduct("IIG.PasswordHashingUtils")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("31f66863-26a4-4626-9566-bfffea52c1a7")]
+[assembly: Guid("685e8988-1197-431c-bb7f-5c37aa062360")]
 
 // Version information for an assembly consists of the following four values:
 //
